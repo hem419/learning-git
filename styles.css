@@ -25,7 +25,7 @@ input {
 }
 
 button {
-  padding: 10px 16px;
+  padding: 10px 15px;
   font-size: 14px;
   cursor: pointer;
   background-color: RGB(125,125,125);
